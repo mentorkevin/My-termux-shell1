@@ -1,4 +1,4 @@
-#This Script id created by Mwtu
+ #This Script id created by Mwtu
 #Don't copy or modify code Read License First
 #Subscribe me on YouTube www.youtube.com/c/Mwtuofficial
 clear
@@ -10,7 +10,7 @@ printf "\e[0m\e[98m ████████████████████
 
 printf "\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[91m    [\e[0m\e[96m BY MWTU \e[0m\e[91m: \e[0m\e[96mYOUTUBE :MWTUOFFICIAL \e[0m\e[91m] \e[0m\n"
+printf "\e[0m\e[91m    [\e[0m\e[96m BY MWTU \e[0m\e[91m: \e[0m\e[96mM :OFFICIAL \e[0m\e[91m] \e[0m\n"
 printf "\e[0m\n"
 
 read -p " Does you want to install Mwtu Shell in Termux?(Yes/No) : " input
